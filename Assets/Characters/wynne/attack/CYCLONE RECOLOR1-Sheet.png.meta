@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,280 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3cc52fcc379794f853da003c1e3f5b
+      internalID: -182257415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a99e80753ad2f45ae0507652440057
+      internalID: 2038252063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3300e81fc9b99749abe59cc8cce21e4
+      internalID: 1468461773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc4105fd4bcd2d4f84d70e5e1c43d90
+      internalID: -304449230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68592173a9161884f9c17b58f9d287b1
+      internalID: -1536137472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a3a1fb401a4a448877c1d5e27aaa7
+      internalID: 220289175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595f478e7a671e442933af5a3daf6211
+      internalID: -63272081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d347c880038070498c2968bc3970bce
+      internalID: 1582708536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b934a0c27d04749b742a5a3cd036fa
+      internalID: 1540639907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416cc366fbb856a4d9402bab77642ab8
+      internalID: 1348755597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58d08d2fe0b31e43b48b7c1c18b6bb5
+      internalID: -1164994728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1f133d21127044dab0018ea6f93f9b
+      internalID: -1629929699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CYCLONE RECOLOR1-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e143edaf0ce8449aa32ec59b73f455
+      internalID: -662742288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +392,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CYCLONE RECOLOR1-Sheet_0: -182257415
+      CYCLONE RECOLOR1-Sheet_1: 2038252063
+      CYCLONE RECOLOR1-Sheet_10: -1164994728
+      CYCLONE RECOLOR1-Sheet_11: -1629929699
+      CYCLONE RECOLOR1-Sheet_12: -662742288
+      CYCLONE RECOLOR1-Sheet_2: 1468461773
+      CYCLONE RECOLOR1-Sheet_3: -304449230
+      CYCLONE RECOLOR1-Sheet_4: -1536137472
+      CYCLONE RECOLOR1-Sheet_5: 220289175
+      CYCLONE RECOLOR1-Sheet_6: -63272081
+      CYCLONE RECOLOR1-Sheet_7: 1582708536
+      CYCLONE RECOLOR1-Sheet_8: 1540639907
+      CYCLONE RECOLOR1-Sheet_9: 1348755597
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

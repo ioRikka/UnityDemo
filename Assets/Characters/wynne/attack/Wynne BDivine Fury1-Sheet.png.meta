@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808b9266c96a2774188d84d7604cbf38
+      internalID: 1605614375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb06364ec9e2b40b69ff7462f412ee
+      internalID: -330602021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088d2ae63af9549488bff7fd707e94b9
+      internalID: 844439044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d12e116d170e294080163145493fce9
+      internalID: 1313805800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa760bd23b29f64a8825aed16535600
+      internalID: 513175250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c774f43d8b9f34e8f088d057dd7a6b
+      internalID: 1414674697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a24cb101736c741874aa8f51f76a2b
+      internalID: 1038039513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9d5a8be315eab4b997bef451f4e12b
+      internalID: -2054978347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc57339bf19285e4ca9ec7cb65153f3a
+      internalID: 1203691354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bb4a178a5e42e44aba1cfa1ba86bce
+      internalID: 770867682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8213d5a73d372ff4aa910812d4824e6e
+      internalID: -419830660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e067963368e754f469b2007a382c029d
+      internalID: 295812653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4cd4a836e12634fa64ef1035fb326e
+      internalID: 854292299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afc82c42b82ca7458d6fd3eff2ecd29
+      internalID: -1334988171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9292bda22b244469e78f330a0becae
+      internalID: 194183142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wynne BDivine Fury1-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 0
+        width: 323
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10d7e7d51c813c498eebcccf18b5ed3
+      internalID: 1808799349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +455,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wynne BDivine Fury1-Sheet_0: 1605614375
+      Wynne BDivine Fury1-Sheet_1: -330602021
+      Wynne BDivine Fury1-Sheet_10: -419830660
+      Wynne BDivine Fury1-Sheet_11: 295812653
+      Wynne BDivine Fury1-Sheet_12: 854292299
+      Wynne BDivine Fury1-Sheet_13: -1334988171
+      Wynne BDivine Fury1-Sheet_14: 194183142
+      Wynne BDivine Fury1-Sheet_15: 1808799349
+      Wynne BDivine Fury1-Sheet_2: 844439044
+      Wynne BDivine Fury1-Sheet_3: 1313805800
+      Wynne BDivine Fury1-Sheet_4: 513175250
+      Wynne BDivine Fury1-Sheet_5: 1414674697
+      Wynne BDivine Fury1-Sheet_6: 1038039513
+      Wynne BDivine Fury1-Sheet_7: -2054978347
+      Wynne BDivine Fury1-Sheet_8: 1203691354
+      Wynne BDivine Fury1-Sheet_9: 770867682
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
